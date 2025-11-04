@@ -7,9 +7,9 @@ Node.js & npm Lab — CLI Calculator
 LAB SETUP INSTRUCTIONS
 ===================================================================
 
-1. Navigate to the project directory:
+1. Navigate to the project root folder (if you are not in root directory):
    Open your terminal and run:
-      cd 6-1-node-npm
+      cd 6-1-node-npm-Dromarjh-main
 
 2. Initialize npm project (if not already done):
    Run:
@@ -20,12 +20,6 @@ LAB SETUP INSTRUCTIONS
    Run:
       npm install lodash
    This installs the lodash package, which provides useful utility functions.
-
-4. Run the calculator:
-   Run:
-      node calculator.js add 5 10 15
-   OR
-      npm start add 5 10 15
 
    If your system blocks running npm commands (especially on Windows PowerShell),
    run this command first to allow script execution:
@@ -180,5 +174,3 @@ After completing all TODOs, test your calculator:
   Expected output: Invalid operation. Use: add, subtract, multiply, or divide
 
 */
-
-// TODO: Write your code here following the instructions above
