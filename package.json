@@ -1,0 +1,15 @@
+{
+  "name": "6-1-node-npm",
+  "version": "1.0.0",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node calculator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
