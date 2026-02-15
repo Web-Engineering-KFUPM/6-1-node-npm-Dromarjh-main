@@ -12,11 +12,9 @@ The lab reinforces the concepts covered in ZyBooks sections **6.2** and **6.3**,
 
 ## Reading Assignments
 
-- **6.2 Getting started with Node.js**  
-  [https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/6/section/2](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/6/section/2)
+- 6.2 Getting started with Node.js
 
-- **6.3 Modules**  
-  [https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/6/section/3](https://learn.zybooks.com/zybook/SWE363Fall2025/chapter/6/section/3)
+- 6.3 Modules
 
 ---
 
